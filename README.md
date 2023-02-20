@@ -28,8 +28,3 @@
 	</a>
 	<br>
 </div>
-<br>
-<div align=center>
-	
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
-</div>

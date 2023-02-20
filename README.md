@@ -60,7 +60,7 @@
     </a>
 </td>
 <!-- <td>
-    <a href="https://yeonyeon.tistory.com/296">
+    <a href="">
         <img width="100%" src="https://miro.medium.com/max/700/1*rb3JJRN2YfybijTcxQiiUQ.png"><br/>
         <div>[Java] 스프링 부트를 제거해서 생긴 일</div>
     </a>

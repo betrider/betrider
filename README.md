@@ -56,9 +56,9 @@
 <td>
     <a href="https://yeonyeon.tistory.com/297">
         <img width="100%" src="/img/3054927136274843105.png"/><br/>
-        <div>[책 후기] 토비의 스프링 3.1 (Vol. 1)</div>
+        <div>[전자책]플러터 노하우 가이드 : DART</div>
     </a>
-    <div>저자: 이일민 출판사: 에이콘 링크: http://www.yes24.com/Product/Goods/7516721 책을 읽으며 진행한 예제 코드는 레...</div>
+    <div>저자: 이일민 출판사: 에이콘 링크: http://www.yes24.com/Product/Goods/7516721 </div>
     <div>23.02.13</div>
 </td>
 <!-- <td>

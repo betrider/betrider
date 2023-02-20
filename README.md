@@ -48,4 +48,25 @@
 	<a href="s">
 	  <img src="https://github-readme-stats.vercel.app/api?username=betrider&theme=tokyonight&show_icons=true" width="42%" />
 	</a>
+	
+<br>
+	
+### 📚 Blog
+<table><tbody><tr>
+<td>
+    <a href="https://yeonyeon.tistory.com/297">
+        <img width="100%" src="/img/3054927136274843105.png"/><br/>
+        <div>[책 후기] 토비의 스프링 3.1 (Vol. 1)</div>
+    </a>
+    <div>저자: 이일민 출판사: 에이콘 링크: http://www.yes24.com/Product/Goods/7516721 책을 읽으며 진행한 예제 코드는 레...</div>
+    <div>23.02.13</div>
+</td>
+<td>
+    <a href="https://yeonyeon.tistory.com/296">
+        <img width="100%" src="/img/3467436289726695281.png"/><br/>
+        <div>[Java] 스프링 부트를 제거해서 생긴 일</div>
+    </a>
+    <div>😄 개요 깃허브 프로필에 블로그 최신 포스트를 업데이트 시켜주는 간단한 토이 프로젝트를 만들었다. (현재 이 프로...</div>
+    <div>23.02.05</div>
+</td>
 </div>

@@ -30,7 +30,7 @@
 	<a href="https://gaudy-tulip-a0f.notion.site/eae3f8c1475e46a8ab8b64d37babf89c">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-	<a href="https://yermi.tistory.com">
+	<a href="https://betrider.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">

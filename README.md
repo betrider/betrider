@@ -55,7 +55,7 @@
 <table><tbody><tr>
 <td>
     <a href="https://yeonyeon.tistory.com/297">
-        <img width="100%" src="/img/3054927136274843105.png"/><br/>
+        <img width="100%" src="https://miro.medium.com/max/700/1*rb3JJRN2YfybijTcxQiiUQ.png"/><br/>
         <div>[전자책]플러터 노하우 가이드 : DART</div>
     </a>
 </td>

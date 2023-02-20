@@ -40,6 +40,7 @@
 </div>
 
 <br>
+<br>
 
 <div align=center>
 	<a href="s">
@@ -49,6 +50,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api?username=betrider&theme=tokyonight&show_icons=true" width="42%" />
 	</a>
 	
+<br>
 <br>
 	
 ### 📚 크몽

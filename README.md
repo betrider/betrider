@@ -14,11 +14,6 @@
 </div>
 <br>
 <div align=center>
-	<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
-</div>
-<div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>

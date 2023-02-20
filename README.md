@@ -27,7 +27,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://yermi.co.kr">
+	<a href="https://gaudy-tulip-a0f.notion.site/eae3f8c1475e46a8ab8b64d37babf89c">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="https://yermi.tistory.com">

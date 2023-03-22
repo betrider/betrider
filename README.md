@@ -14,8 +14,9 @@
 
 ***개발스킬***
 - **상태관리 : provider, getX, bloc , riverpod, pmvvm**
-- **VCS : git, svn**
+- **버전관리시스템 : git, svn**
 - **자동화배포 : fastlane**
+- **스토어배포 : android, ios**
 
 <br/>
 

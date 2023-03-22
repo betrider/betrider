@@ -6,25 +6,33 @@
 ----
 
 ***추구하는 방향***
-- **(간결한 코딩스타일, 의존성 최소화)**
-- **(플러그인 제작 또는 위젯 템플릿 페이지 추가)**
-- **(스크립트 작성, 자동화 빌드 배포)**
-- **(불필요한 빌드 제거, 복잡한 코드 간소화)**
+- **간결한 코딩스타일**
+- **의존성 최소화**
+- **정기적인 세미나를 통한 지식 공유**
+- **코드 리뷰를 통한 프로덕트 품질 향상**
+- **새로운 기술에 대한 지속적인 관심**
 
 ----
 
 ***개발스킬***
-- **상태관리 : provider, getX, bloc , riverpod, pmvvm**
+- **api : RESTful, GraphQL**
+- **상태관리 : provider, getX, bloc, riverpod, pmvvm**
 - **버전관리시스템 : git, bitbucket, svn**
 - **자동화배포 : fastlane**
 - **스토어배포 : android, ios**
 - **결제 : bootpay**
 - **앱 분석 및 관리 : Firebase Analytics 및 GTM, Firebase Crashlytics**
 
+- **기타 : 웹소켓을 이용한 채팅 개발**
+- **기타 : vscode extension 개발**
+
 ----
 
-***기타스킬***
-- **디자인 : sketch, pigma**
+***회사관련 기타스킬***
+- ** sketch 및 pigma**
+- ** jira**
+- ** slack**
+- ** bitbucket**
 
 <br/>
 

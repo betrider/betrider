@@ -2,6 +2,7 @@
 
 - 안녕하세요! 플러터 개발자 베트라이더 입니다.
 - 현재 판교에서 플러터로 앱개발을 하고있는 7년차 개발자입니다.
+
 ----
 
 ***추구하는 방향***
@@ -14,9 +15,16 @@
 
 ***개발스킬***
 - **상태관리 : provider, getX, bloc , riverpod, pmvvm**
-- **버전관리시스템 : git, svn**
+- **버전관리시스템 : git, bitbucket, svn**
 - **자동화배포 : fastlane**
 - **스토어배포 : android, ios**
+- **결제 : bootpay**
+- **앱 분석 및 관리 : Firebase Analytics 및 GTM, Firebase Crashlytics **
+
+----
+
+***기타스킬***
+- **디자인 : sketch, pigma**
 
 <br/>
 

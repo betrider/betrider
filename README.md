@@ -19,6 +19,7 @@
 - **자동화배포 : fastlane**
 - **스토어배포 : android, ios**
 - **결제 : bootpay**
+- **앱 분석 및 관리 : Firebase Analytics 및 GTM, Firebase Crashlytics**
 - **앱 분석 및 관리 : Firebase Analytics 및 GTM, Firebase Crashlytics **
 
 ----

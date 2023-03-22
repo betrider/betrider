@@ -34,7 +34,6 @@
 - **jira**
 - **slack**
 - **bitbucket**
-- **naver works**
 
 <br/>
 

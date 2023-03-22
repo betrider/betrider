@@ -29,10 +29,10 @@
 ----
 
 ***회사관련 기타스킬***
-- ** sketch 및 pigma**
-- ** jira**
-- ** slack**
-- ** bitbucket**
+- **sketch 및 pigma**
+- **jira**
+- **slack**
+- **bitbucket**
 
 <br/>
 

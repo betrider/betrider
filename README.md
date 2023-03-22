@@ -24,8 +24,13 @@
 - **앱 분석 및 관리 : Firebase Analytics 및 GTM, Firebase Crashlytics**
 <br></br>
 - **기타 : 웹소켓을 이용한 채팅 개발**
-- **기타 : vscode extension 개발**
 
+----
+
+***개발스킬***
+- **기타 : vscode extension 개발**
+- **기타 : 공통 위젯사이트 개발**
+- **기타 : **
 ----
 
 ***회사협업관련***

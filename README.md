@@ -29,7 +29,7 @@
 ----
 
 ***성능향상***
-- **vscode extension 개발** (DU Data Class Generator , DU Ultimate Flutter Extension Pack)
+- **vscode extension 개발** (DU Data Class Generator, DU Ultimate Flutter Extension Pack)
 - **공통 위젯사이트 개발**
 - **svg -> ttf로 속도개선**
 ----

@@ -25,6 +25,8 @@
 - **앱 분석 및 관리 : Firebase Analytics 및 GTM, Firebase Crashlytics**
 - **소셜로그인 : google, facebook, apple, kakao, naver**
 - **광고 : admob**
+- **지도 : google, kakao**
+
 <br></br>
 - **기타 : 웹소켓을 이용한 채팅 개발**
 - **기타 : firebase dynamic link 개발**
@@ -34,6 +36,7 @@
 - **vscode extension 개발** (DU Data Class Generator, DU Ultimate Flutter Extension Pack)
 - **공통 위젯사이트 개발**
 - **svg -> ttf로 속도개선**
+- **shell script를 이용한 **
 
 ----
 

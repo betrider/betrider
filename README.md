@@ -46,6 +46,7 @@
 - **sketch**
 - **pigma**
 - **jira**
+- **confluence**
 - **slack**
 - **bitbucket**
 

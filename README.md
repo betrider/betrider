@@ -23,6 +23,7 @@
 - **스토어배포 : android, ios**
 - **결제 : bootpay**
 - **앱 분석 및 관리 : Firebase Analytics 및 GTM, Firebase Crashlytics**
+- **소셜로그인 : google, facebook, apple, kakao, naver**
 <br></br>
 - **기타 : 웹소켓을 이용한 채팅 개발**
 - **기타 : firebase dynamic link 개발**

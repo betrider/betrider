@@ -29,6 +29,7 @@
 - **지도 : google, kakao**
 <br></br>
 - **기타 패키지: get_it, dio, equtable**
+<br></br>
 - **웹소켓을 이용한 채팅 개발**
 - **firebase dynamic link 개발**
 ----

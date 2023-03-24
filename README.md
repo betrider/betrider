@@ -17,6 +17,7 @@
 ***개발스킬***
 - **flutter version : 1.x.x ~ 3.x.x**
 - **api : RESTful, GraphQL**
+- **아키텍처 : Clean Architecture, MVVM **
 - **상태관리 : provider, getX, bloc, riverpod, pmvvm**
 - **버전관리시스템 : git, bitbucket, svn**
 - **자동화배포 : fastlane**

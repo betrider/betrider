@@ -38,7 +38,7 @@
 - **vscode extension 개발** (DU Data Class Generator, DU Ultimate Flutter Extension Pack)
 - **공통 위젯사이트 개발**
 - **svg -> ttf로 속도개선**
-- **shell script를 이용한 관리**
+- **shell script를 이용한 자동관리**
 - **ios Shader Compilation Jank 오류 현상 수정**
 ----
 

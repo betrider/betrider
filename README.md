@@ -47,7 +47,7 @@
 - **그냥사(안드로이드) https://play.google.com/store/apps/details?id=com.mobile.smartphone_deal&hl=ko&gl=US**
 <br></br>
 - **애플-베프테스트(안드로이드) https://play.google.com/store/apps/details?id=com.mina.aeple.test&hl=ko&gl=US**
-- **애플-베프테스트(아이폰) https://play.google.com/store/apps/details?id=com.mobile.smartphone_deal&hl=ko&gl=US**
+- **애플-베프테스트(아이폰) https://apps.apple.com/kr/app/aeple%EC%95%A0%ED%94%8C-%EB%B2%A0%ED%94%84%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%99%EB%84%A4%EC%B9%9C%EA%B5%AC-%EB%8F%99%EC%84%B1%EC%B9%9C%EA%B5%AC-%EC%86%8C%EA%B0%9C%ED%8C%85/id6444396368**
 
 ----
 

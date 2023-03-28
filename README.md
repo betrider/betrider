@@ -113,7 +113,7 @@
 ### 📚 크몽
 <table><tbody><tr>
 <td>
-    <a href="https://gaudy-tulip-a0f.notion.site/2023-DART-9cb08f251e4a4f18b7d2abe66a943c17">
+    <a href="https://kmong.com/gig/453569">
 	<img width="100%" src="https://miro.medium.com/max/700/1*rb3JJRN2YfybijTcxQiiUQ.png"/><br/>
 	<div>[전자책]플러터 노하우 가이드 : DART</div>
     </a>

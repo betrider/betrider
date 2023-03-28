@@ -44,7 +44,10 @@
 ----
 
 ***스토어***
-- **그냥사 앱 개발 https://play.google.com/store/apps/details?id=com.mobile.smartphone_deal&hl=ko&gl=US**
+- **그냥사(안드로이드) https://play.google.com/store/apps/details?id=com.mobile.smartphone_deal&hl=ko&gl=US**
+- 
+- **애플-베프테스트(안드로이드) https://play.google.com/store/apps/details?id=com.mina.aeple.test&hl=ko&gl=US**
+- **애플-베프테스트(아이폰) https://play.google.com/store/apps/details?id=com.mobile.smartphone_deal&hl=ko&gl=US**
 
 ----
 

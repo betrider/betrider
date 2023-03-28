@@ -41,6 +41,7 @@
 - **svg -> ttf로 속도개선**
 - **shell script를 이용한 자동관리**
 - **ios Shader Compilation Jank 오류 현상 수정**
+- **테스트 커버리지를 통한 테스트**
 ----
 
 ***스토어***

@@ -44,7 +44,7 @@
 ----
 
 ***스토어***
-- **그냥사 앱 개발**
+- **그냥사 앱 개발 https://play.google.com/store/apps/details?id=com.mobile.smartphone_deal&hl=ko&gl=US**
 
 ----
 

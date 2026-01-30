@@ -63,35 +63,6 @@
 	
 </div>
 <br>
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-	<a href="https://gaudy-tulip-a0f.notion.site/eae3f8c1475e46a8ab8b64d37babf89c">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<a href="https://betrider.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-	<a href="https://www.notion.so/1b6643fe3ed14bcb8c07e4eac5e41e09?pvs=4">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
-</div>
-
-<br>
-<br>
-
-<div align=center>
-	<a href="s">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betrider&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-	</a>
-	<a href="s">
-	  <img src="https://github-readme-stats.vercel.app/api?username=betrider&theme=tokyonight&show_icons=true" width="42%" />
-	</a>
-	
-<br>
-<br>
 
 ### 📚 크몽
 <table><tbody><tr>
@@ -99,12 +70,6 @@
     <a href="https://kmong.com/gig/453569">
 	<img width="100%" src="https://miro.medium.com/max/700/1*rb3JJRN2YfybijTcxQiiUQ.png"/><br/>
 	<div>[전자책]플러터 노하우 가이드 : DART</div>
-    </a>
-</td>
-<td>
-    <a href="">
-	<img width="100%" src="https://miro.medium.com/max/700/1*rb3JJRN2YfybijTcxQiiUQ.png"/><br/>
-	<div>[전자책]플러터 노하우 가이드 : FLUTTER</div>
     </a>
 </td>
 </div>
